@@ -138,7 +138,7 @@ nav {
     align-items: center;
     color: var(--gray);
 }
-.nav-main a:hover,
+.nav-main-link a:hover,
 .nav-contact a:hover {
     color: var(--blue);
 }
